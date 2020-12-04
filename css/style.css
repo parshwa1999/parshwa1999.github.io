@@ -5,7 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
-  --blue: #007bff;
+  --blue: #0786f7;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -18,7 +18,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #78d5ef;
+  --primary: #0d4580;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -7146,7 +7146,7 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #78d5ef !important; }
+  color: #2d588e !important; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #4ac7ea !important; }
@@ -7298,10 +7298,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #ccb78f; }
+  color: #2d588e; }
   a:hover, a:focus {
     text-decoration: none;
-    color: #ccb78f;
+    color: #f09228;
     outline: none !important; }
 
 h1, h2, h3, h4, h5,
@@ -8001,7 +8001,7 @@ h1, h2, h3, h4, h5,
         color: #ccb78f; }
 
 .ftco-bread {
-  background: #ccb78f !important;
+  background: #a0b8d7 !important;
   padding: 4em 1.8em !important; }
   .ftco-bread .breadcrumbs {
     text-transform: uppercase;
