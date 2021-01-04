@@ -7640,7 +7640,7 @@ h1, h2, h3, h4, h5,
     background: #fff;
     z-index: 0; }
   .hero-wrap .author-info, .hero-wrap .author-image {
-    width: 50%; }
+    width: 20%; }
     @media (max-width: 767.98px) {
       .hero-wrap .author-info, .hero-wrap .author-image {
         width: 30%; } }
@@ -8275,14 +8275,13 @@ textarea.form-control {
   padding: 0; }
   .ftco-social li {
     list-style: none;
-    margin: 0 10px 0 0;
+    margin: 0 25px 15px 10px;
     display: inline-block; }
     .ftco-social li a {
-      height: 50px;
-      width: 50px;
+      height: 25px;
+      width: 25px;
       display: block;
       float: left;
-      background: white;
       border-radius: 50%;
       position: relative; }
       .ftco-social li a span {
